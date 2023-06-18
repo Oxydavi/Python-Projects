@@ -3,9 +3,9 @@ from telebot import types
 import requests
 import random
 
-bot = telebot.TeleBot('5931240158:AAGy-HyvnZjN7MTjAqwDF0r97CnSbkILO8Y')
-WEATHER_API_KEY = "689447b7df42e473217b90fae70a1752"
-COINMARKETCAP_API_KEY = "d37efbfb-c1a7-47b0-80c9-68f7b33eeb94"
+bot = telebot.TeleBot('your toeken')
+WEATHER_API_KEY = "your toeken"
+COINMARKETCAP_API_KEY = "your toeken"
 helplist = "/help - список команд"\
            "\n/hello - поздороваться" \
            "\n/website - сайт " \
